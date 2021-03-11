@@ -1,5 +1,5 @@
 export const hello = () => console.log('hello');
-export const showError = message => console.error(message);
+export const showError = message => console.error(message); //affichage dans le console
 
 
 

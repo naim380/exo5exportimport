@@ -5,6 +5,6 @@ const divide = (a, b) => a / b;
 const pow = (a, b) => a ** b;
 
 
-export {sum, sub, multiply, divide, pow}
+export {sum, sub, multiply, divide, pow} // export des fonctions vers le script.js
 
 
